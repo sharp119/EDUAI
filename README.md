@@ -19,6 +19,17 @@ This platform is designed to use AI to create personalized avatars for students,
 - **Adaptive Learning Paths**: The platform adapts to each student's learning pace and style, providing personalized content and assessments.
 - **Analytics Dashboard**: Teachers and administrators can track student progress and engagement with detailed analytics.
 
+## Screenshots
+- **Dashboard**
+[![Dashboard](/assests/screenshots/dashboard.png )](https://claude.site/artifacts/aa7fcea5-7f58-4c9a-8bac-d61992e6dc4b)
+
+- **Learning Modules**
+[![Learning Modules](/assests/screenshots/learning_module_page.png)](https://claude.site/artifacts/43d6dfe6-ca45-4086-ba7a-220aa13e99f7)
+
+- **Video Learning**
+[![Video Learning](/assests/screenshots/video_learning.png)](https://claude.site/artifacts/4cc97867-f0ea-4d2c-9c16-41cd484bfd0b)
+
+
 ## Installation
 To set up this project locally, follow these steps:
 \`\`\`
